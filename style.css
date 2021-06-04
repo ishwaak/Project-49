@@ -1,0 +1,16 @@
+.Header
+{
+    border : black;
+    background: grey ;
+    color: red;
+    text-align: center;    
+}
+.Links
+{
+    display: flex;
+    justify-content: space-around ;
+}
+.pics
+{
+    border: black
+}
